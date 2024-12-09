@@ -12,7 +12,7 @@ const portfolioProjects = [
   {
     company: "Acme Corp",
     year: "2022",
-    title: "Dark Saas Landing Page",
+    title: "Gadget Heaven E-commerce",
     results: [
       { title: "Enhanced user experience by 40%" },
       { title: "Improved site speed by 50%" },
@@ -24,7 +24,7 @@ const portfolioProjects = [
   {
     company: "Innovative Co",
     year: "2021",
-    title: "Light Saas Landing Page",
+    title: "Movie Portal Website",
     results: [
       { title: "Boosted sales by 20%" },
       { title: "Expanded customer reach by 35%" },
@@ -36,7 +36,7 @@ const portfolioProjects = [
   {
     company: "Quantum Dynamics",
     year: "2023",
-    title: "AI Startup Landing Page",
+    title: "Eco Adventure Website",
     results: [
       { title: "Enhanced user experience by 40%" },
       { title: "Improved site speed by 50%" },
