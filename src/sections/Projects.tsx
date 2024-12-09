@@ -18,8 +18,8 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://youtu.be/4k7IdSLxh6w",
-    image: darkSaasLandingPage,
+    link: "https://gadget-heaven-by-mithu9.netlify.app/",
+    image: "https://ibb.co.com/7ncgZXr",
   },
   {
     company: "Innovative Co",
@@ -30,8 +30,8 @@ const portfolioProjects = [
       { title: "Expanded customer reach by 35%" },
       { title: "Increased brand awareness by 15%" },
     ],
-    link: "https://youtu.be/7hi5zwO75yc",
-    image: lightSaasLandingPage,
+    link: "https://movie-portal-by-mithu9.netlify.app/",
+    image: "https://ibb.co.com/qJHkx9g",
   },
   {
     company: "Quantum Dynamics",
@@ -42,8 +42,8 @@ const portfolioProjects = [
       { title: "Improved site speed by 50%" },
       { title: "Increased mobile traffic by 35%" },
     ],
-    link: "https://youtu.be/Z7I5uSRHMHg",
-    image: aiStartupLandingPage,
+    link: "https://eco-adventure-by-mithu9.netlify.app/",
+    image: "https://ibb.co.com/dDPwkKS",
   },
 ];
 
